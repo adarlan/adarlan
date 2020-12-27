@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Watch my first video on YouTube, where I talk about the CI/CD process (pt-BR): youtu.be/c4fD97uQw6s
+
 <!--
 **adarlan/adarlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
