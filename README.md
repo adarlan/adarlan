@@ -1,6 +1,8 @@
+![Cover image](https://raw.githubusercontent.com/adarlan/adarlan/main/cover.png)
+
 ### Hi there 👋
 
-Watch my first video on YouTube, where I talk about the CI/CD process (pt-BR): [youtu.be/c4fD97uQw6s](https://youtu.be/c4fD97uQw6s)
+🎥 Watch my first video on YouTube, where I talk about the CI/CD process (pt-BR): [youtu.be/c4fD97uQw6s](https://youtu.be/c4fD97uQw6s)
 
 <!--
 **adarlan/adarlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
