@@ -1,4 +1,4 @@
-![Cover image](https://raw.githubusercontent.com/adarlan/adarlan/main/cover.png)
+![Cover image](https://raw.githubusercontent.com/adarlan/adarlan/main/cover-2.png)
 
 ### Hi there 👋, I'm Adarlan
 
