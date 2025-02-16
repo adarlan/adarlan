@@ -26,7 +26,7 @@ A lightweight CI/CD tool that runs each job in its own isolated __Docker__ conta
 I started programming in 2008, creating small games and tools that shaped my understanding of coding. Some of these early projects include:
 a [card game](https://github.com/adarlan/pife),
 a [falling block puzzle game](https://github.com/adarlan/rimba),
-the [iconic snake game](https://github.com/adarlan/snake-pascal),
+the iconic [snake game](https://github.com/adarlan/snake-pascal),
 a [paint program](https://github.com/adarlan/mypaint),
 a [driving game](https://github.com/adarlan/kart-game),
 a [piano simulator](https://github.com/adarlan/arduino-piano),
