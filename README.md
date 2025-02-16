@@ -11,7 +11,7 @@ An __Amazon EKS__ experimentation project, packed with open-source tools and exa
 
 ### [__EC2 Kube Formation__](https://github.com/adarlan/kube-formation)
 
-A hands-on project for understanding __Kubernetes__ architecture by setting up a cluster on __Amazon EC2__ instances. It uses: __Packer__ to create cluster node images, __Terraform__ to provision infrastructure, and __Ansible__ to initialize the cluster.
+A project for understanding the __Kubernetes__ architecture by setting up a cluster on __Amazon EC2__ instances. It uses: __Packer__ to create cluster node images, __Terraform__ to provision infrastructure, and __Ansible__ to initialize the cluster.
 
 ### [__Local K8s__](https://github.com/adarlan/k8slab)
 
