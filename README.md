@@ -15,7 +15,7 @@ A project for understanding the __Kubernetes__ architecture by setting up a clus
 
 ### [__Local K8s__](https://github.com/adarlan/k8slab)
 
-A local __Kubernetes__ cluster for experimentation, simulating real-world environments. Uses __Terraform__ to set up a __KinD__ cluster, enforcing RBAC, resource quotas, and limit ranges. It also includes: __Ingress-Nginx__ for traffic routing, __Argo CD__ for continuous deployment, __Prometheus__ for metrics scraping, __Loki__ for log aggregation, and __Grafana__ for dashboard visualization.
+A local __Kubernetes__ cluster simulating real-world environments. Uses __Terraform__ to set up a __KinD__ cluster, enforcing RBAC, resource quotas, and limit ranges. It also includes: __Ingress-Nginx__ for traffic routing, __Argo CD__ for continuous deployment, __Prometheus__ for metrics scraping, __Loki__ for log aggregation, and __Grafana__ for dashboard visualization.
 
 ### [__Plankton CI/CD__](https://github.com/adarlan/plankton)
 
