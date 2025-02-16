@@ -21,7 +21,7 @@ A local __Kubernetes__ cluster simulating real-world environments. Uses __Terraf
 
 A lightweight CI/CD tool that runs each job in its own isolated __Docker__ container. Built with __Java__.
 
-### [__The Early Code Collection__](https://www.linkedin.com/pulse/desvendando-arte-da-programa%25C3%25A7%25C3%25A3o-comunidade-do-orkut-ao-teixeira/?trackingId=V1bQgKBuSXme%2FUNLFkKQzw%3D%3D)
+## __The Early Code Collection__
 
 I started programming in 2008, creating small games and tools that shaped my understanding of coding. Some of these early projects include:
 a [card game](https://github.com/adarlan/pife),
